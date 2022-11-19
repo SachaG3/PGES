@@ -1,0 +1,14 @@
+#a{
+	font-size: 300%;
+	border: solid 1px blue;
+	background-color: blue;
+}
+body{
+	text-align: center;
+}
+a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 150%;
+}
